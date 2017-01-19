@@ -1,0 +1,11 @@
+.first{
+    font-family: Monotype Corsiva;
+    font-size: 30px;
+    color: blue;
+    text-align: center;
+}
+#one{
+    height: 150px;
+    display: block;
+    border: 5px; solid black
+}
