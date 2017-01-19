@@ -1,11 +1,20 @@
 .first{
     font-family: Monotype Corsiva;
     font-size: 30px;
-    color: blue;
+    color: rgb(255,215,0);
     text-align: center;
 }
 #one{
     height: 150px;
     display: block;
-    border: 5px; solid black
+    border: 5px solid black;
+}
+.button{
+    color: rgb(255,215,0);
+}
+#about{
+    text-align: center;
+}
+#clubs{
+    text-align: right;
 }
